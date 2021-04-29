@@ -1,0 +1,71 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: White;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 25px;
+}
+
+#a{
+	width: 100%;
+}
+
+#b{
+	width: 60%;
+	height: 700px;
+	clear: right;
+	float: left;
+}
+
+#c{
+	width: 40%;
+	height: 700px;
+	float: right;
+	padding:10px;
+	padding-left: 120px; 
+	backface-visibility: hidden;
+}
+
+#d{
+	height: 600px;
+	width: 100%;
+}
+
+#e{
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+#submit{
+	width: 50%;
+	margin: 10px;
+	margin-left: 80px;
+	margin-top: 0;	
+}
+
+#img1{
+	width: 70%;
+	height: 400px;
+	vertical-align: middle;
+    border-style: none;
+    margin: 118px;
+    margin-left: 200px;
+ }
+
+#pwd{
+	margin-bottom: 40px;
+}
+
+#pwd1{
+	margin-bottom: 40px;
+}
+
+#pwd2{
+	margin-bottom: 40px;
+}
+
+
+

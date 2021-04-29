@@ -1,0 +1,119 @@
+body
+{
+	background-color: black;
+}
+
+h1
+{
+	color: White;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 25px;
+}
+
+h3{
+	color: White;
+	font-size: 20px;
+	text-align: center;
+	margin-top: -10px;
+}
+
+#a{
+	width: 100%;
+}
+
+#x{
+	/*border-top: 1px dotted white;*/
+	padding: 0px;
+	border-bottom: 1px dotted white;
+	width: 100%;
+}
+
+#d{
+	width: 300px;
+	height: 200px;
+	background-color: white;
+	/*float: right;*/
+	/*padding:10px;
+	padding-left: 120px;*/ 	
+	perspective: 1000px;
+	margin-left: 100px;
+	margin-top: 150px;
+}
+
+/*#c:hover #flip_card
+{
+	transform: rotateY(180deg);
+}*/
+
+
+#d{
+	position: absolute;
+	width: 100%;
+	height: 60%;
+	backface-visibility: hidden;
+}
+
+/*#img1{
+	height: 40px;
+	width: 100%;
+	padding: 24px;
+}
+
+
+#c:hover #flip_card{
+  transform: rotateY(180deg);
+}*/
+
+#e{
+	text-align: center;
+}
+
+#loginbtn{
+	width: 60%;
+	margin: 10px;
+	margin-left: 100px;
+	/*margin-top: 400px;*/
+
+}
+
+#e{
+	text-align: center;
+	color: red;
+}
+
+
+
+#g{
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	/*float: right;*/
+	/*padding:10px;*/
+	/*padding-left: 120px;*/	
+	perspective: 1000px;
+	margin-left: 850px;
+	margin-top: 150px;
+}
+
+#g{
+	position: absolute;
+	width: 100%;
+	height: 60%;
+	backface-visibility: hidden;
+}
+
+#h{
+	text-align: center;
+}
+
+/*#loginbtn1{
+	width: 60%;
+	margin: 10px;
+	margin-left: 100px;
+	margin-top: 400px;*/
+
+#h{
+	text-align: center;
+	color: red;
+}
